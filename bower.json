@@ -1,0 +1,22 @@
+{
+  "name": "liveSearchApp",
+  "homepage": "https://github.com/IgorTokman/liveSearchApp",
+  "authors": [
+    "IgorTokman <igortokman1994@ukr.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
